@@ -43,7 +43,7 @@ It supports:
 
 # Project Structure
 
-
+```bash
 Smart-Face-Security-System/
 │
 ├── dataset/                  # Stored face images
@@ -53,7 +53,9 @@ Smart-Face-Security-System/
 ├── README.md                 # Project documentation
 ├── .gitignore                # Ignored files
 └── requirements.txt          # Required libraries
+```
 
+---
 
 # Installation
 
