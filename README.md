@@ -81,17 +81,6 @@ pip install -r requirements.txt
 
 ---
 
-# Required Libraries
-
-Create a `requirements.txt` file and add:
-
-```txt
-opencv-contrib-python
-numpy
-pillow
-```
-
----
 
 # How to Run
 
@@ -186,21 +175,10 @@ Built using Tkinter.
 
 ---
 
-# Screenshots
-
-Add project screenshots here.
-
-Example:
-
-* Registration Window
-* Security Monitoring
-* Intruder Detection Alert
-
----
 
 # Author
 
-Your Name
+Sumit Asnora
 BCA Graduate | AI & Full Stack Enthusiast
 
 ---
